@@ -13,7 +13,7 @@ A small project demonstrating web Api
 
 
 
-# **Search Query**
+# **Search_Query**
 
 Started out by creating a text box to search for contacts in a database
 
